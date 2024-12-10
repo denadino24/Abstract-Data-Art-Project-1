@@ -41,8 +41,8 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-(https://github.com/user-attachments/assets/594cd63e-87c4-4501-9d24-dcf6143367ee)
-
+[(https://github.com/user-attachments/assets/594cd63e-87c4-4501-9d24-dcf6143367ee)
+](https://github.com/user-attachments/assets/7539b52f-bba8-4c2f-aaae-021c2693ef11)
 ## Description
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
